@@ -1,0 +1,27 @@
+.header{
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-around;
+    background-color: dodgerblue;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding:5px;
+}
+
+#feedpage{
+    margin:0px ;
+    color:white;
+}
+.sort_option{
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.sort_text{
+    background-color: white;
+}
+.sort{
+    border: none;
+}
